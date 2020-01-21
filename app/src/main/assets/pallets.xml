@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pallets>
+	<Pallet ID="1">
+		<Name>Cor 1</Name>
+		<W>800</W>
+		<L>1000</L>
+		<Loc>Front</Loc>
+	</Pallet>
+	<Pallet ID="2">
+                <Name>Cor 7</Name>
+                <W>1000</W>
+                <L>1230</L>
+		<Loc>Back</Loc>
+        </Pallet>
+	<Pallet ID="3">
+                <Name>Cor 8</Name>
+                <W>1230</W>
+                <L>1230</L>
+		<Loc>Back</Loc>
+        </Pallet>
+	<Pallet ID="4">
+                <Name>Cor 15</Name>
+                <W>1230</W>
+                <L>2000</L>
+		<Loc>Front</Loc>
+        </Pallet>
+	<Pallet ID="5">
+                <Name>Cor 17</Name>
+                <W>1000</W>
+                <L>2000</L>
+		<Loc>Front</Loc>
+        </Pallet>
+	<Pallet ID="6">
+                <Name>Cor 20</Name>
+                <W>1230</W>
+                <L>2450</L>
+		<Loc>Front</Loc>
+        </Pallet>
+	<Pallet ID="7">
+                <Name>12GLS</Name>
+                <W>1000</W>
+                <L>1200</L>
+		<Loc>Back</Loc>
+        </Pallet>
+	<Pallet ID="8">
+                <Name>P1</Name>
+                <W>915</W>
+                <L>1230</L>
+		<Loc>Back</Loc>
+        </Pallet>
+	<Pallet ID="9">
+                <Name>P3</Name>
+                <W>815</W>
+                <L>1230</L>
+		<Loc>Back</Loc>
+        </Pallet>
+	<Pallet ID="10">
+                <Name>P4</Name>
+                <W>1040</W>
+                <L>1550</L>
+		<Loc>Back</Loc>
+        </Pallet>
+	<Pallet ID="11">
+                <Name>P5</Name>
+                <W>1020</W>
+                <L>1350</L>
+		<Loc>Back</Loc>
+        </Pallet>
+	<Pallet ID="12">
+                <Name>P8</Name>
+                <W>815</W>
+                <L>1310</L>
+		<Loc>Back</Loc>
+        </Pallet>
+	<Pallet ID="13">
+                <Name>P9</Name>
+                <W>1230</W>
+                <L>1550</L>
+		<Loc>Front</Loc>
+        </Pallet>
+	<Pallet ID="14">
+                <Name>P10</Name>
+                <W>1230</W>
+                <L>2450</L>
+		<Loc>Front</Loc>
+        </Pallet>
+	<Pallet ID="15">
+                <Name>P13</Name>
+                <W>815</W>
+                <L>1420</L>
+		<Loc>Back</Loc>
+        </Pallet>
+	<Pallet ID="16">
+                <Name>P14</Name>
+                <W>915</W>
+                <L>1350</L>
+		<Loc>Back</Loc>
+        </Pallet>
+	<Pallet ID="17">
+                <Name>P15</Name>
+                <W>705</W>
+                <L>1420</L>
+		<Loc>Back</Loc>
+        </Pallet>
+	<Pallet ID="18">
+                <Name>Arvid 1</Name>
+                <W>810</W>
+                <L>810</L>
+		<Loc>Back</Loc>
+        </Pallet>
+	<Pallet ID="19">
+                <Name>Arvid 2</Name>
+                <W>830</W>
+                <L>1600</L>
+		<Loc>Front</Loc>
+        </Pallet>
+	<Pallet ID="20">
+                <Name>Arvid 3</Name>
+                <W>1000</W>
+                <L>2450</L>
+		<Loc>Front</Loc>
+        </Pallet>
+	<Pallet ID="21">
+                <Name>Arvid 4</Name>
+                <W>1100</W>
+                <L>1600</L>
+		<Loc>Front</Loc>
+        </Pallet>
+	<Pallet ID="22">
+                <Name>Arvid 5</Name>
+                <W>1200</W>
+                <L>1350</L>
+		<Loc>Front</Loc>
+        </Pallet>
+	<Pallet ID="23">
+                <Name>Arvid 6</Name>
+                <W>1200</W>
+                <L>1400</L>
+		<Loc>Front</Loc>
+        </Pallet>
+	<Pallet ID="24">
+                <Name>Arvid 7</Name>
+                <W>1230</W>
+                <L>1650</L>
+		<Loc>Front</Loc>
+        </Pallet>
+	<Pallet ID="25">
+                <Name>Arvid 8</Name>
+                <W>1230</W>
+                <L>1800</L>
+		<Loc>Front</Loc>
+        </Pallet>
+	<Pallet ID="26">
+                <Name>Arvid 9</Name>
+                <W>700</W>
+                <L>3000</L>
+		<Loc>Front</Loc>
+        </Pallet>
+	<Pallet ID="27">
+                <Name>Arvid 10</Name>
+                <W>700</W>
+                <L>3100</L>
+		<Loc>Front</Loc>
+        </Pallet>
+	<Pallet ID="28">
+                <Name>Arvid 11</Name>
+                <W>1230</W>
+                <L>3000</L>
+		<Loc>Front</Loc>
+        </Pallet>
+	<Pallet ID="29">
+                <Name>Arvid 12</Name>
+                <W>2000</W>
+                <L>2000</L>
+		<Loc>Front</Loc>
+        </Pallet>
+	<Pallet ID="30">
+                <Name>Arvid 13</Name>
+                <W>2000</W>
+                <L>2400</L>
+		<Loc>Front</Loc>
+        </Pallet>
+	<Pallet ID="31">
+                <Name>Arvid 14</Name>
+                <W>2450</W>
+                <L>2500</L>
+		<Loc>Front</Loc>
+        </Pallet>
+	<Pallet ID="32">
+                <Name>Arvid 15</Name>
+                <W>2000</W>
+                <L>3000</L>
+		<Loc>Front</Loc>
+        </Pallet>
+	<Pallet ID="33">
+                <Name>Recon 1</Name>
+                <W>1000</W>
+                <L>1000</L>
+		<Loc>Front</Loc>
+        </Pallet>
+	<Pallet ID="34">
+                <Name>Recon 2 </Name>
+                <W>800</W>
+                <L>1200</L>
+		<Loc>Front</Loc>
+        </Pallet>
+        <Pallet ID="35">
+                <Name>Recon 3 </Name>
+                <W>1200</W>
+                <L>1200</L>
+		<Loc>Back</Loc>
+        </Pallet>
+	<Pallet ID="36">
+		<Name>Recon 4 </Name>
+		<W>1000</W>
+		<L>1200</L>
+		<Loc>Back</Loc>
+	</Pallet>
+</Pallets>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
